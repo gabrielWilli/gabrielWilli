@@ -1,13 +1,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=https://github.com/gabrielWilli)
 
-<div style="text-align:center">
-<img src="assets/animation-presentation.gif" />
-</div>
+<p align="center">
+  <img src="assets/animation-presentation.gif" />
+</p>
 
 &nbsp;
 
-##   Hey there!&nbsp; 👋 &nbsp;I'm Gabriel.
 
+##   Hey there!&nbsp; 👋 &nbsp;I'm Gabriel.
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielwillian841@gmail.com) [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-willian/)
 
