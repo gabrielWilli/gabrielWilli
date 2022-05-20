@@ -27,14 +27,3 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍   **English Language/Literatures** - São Paulo, Brazil
 
 </details>
-
-___
-
-&nbsp;
-___
-## 🎧  Spotify Playing
-
-&nbsp;
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9bj7ux6ag1n536n1xlhpht6xz&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=9bj7ux6ag1n536n1xlhpht6xz&redirect=true)
-___
