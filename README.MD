@@ -27,3 +27,26 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍   **English Language/Literatures** - São Paulo, Brazil
 
 </details>
+
+<details>
+<summary>🔧 LANGUAGES AND TOOLS </summary>
+
+## ▹ Objective
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀 **Android/Flutter Mobile Developer**
+
+## ▹ Presentation
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ....
+
+## ▹ Education
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖  **Computer science**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📆   2018 - 2022  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍   **University of the West of São Paulo** - São Paulo, Brazil
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖  **CPM**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📆   2021 - 2026  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍   **English Language/Literatures** - São Paulo, Brazil
+
+</details>
