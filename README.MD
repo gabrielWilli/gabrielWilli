@@ -10,7 +10,7 @@ ___
 
 ## ▹ Objective
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀 **Android Mobile Developer**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀 **Android/Flutter Mobile Developer**
 
 ## ▹ Presentation
 
