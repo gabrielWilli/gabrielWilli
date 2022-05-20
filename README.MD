@@ -10,7 +10,7 @@ ___
 
 ## ▹ Objective
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀 **Android/Flutter Mobile Developer**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀 **Android/Flutter Developer**
 
 ## ▹ Presentation
 
@@ -31,11 +31,14 @@ ___
 <details>
 <summary>🔧 LANGUAGES AND TOOLS </summary>
 
-## ▹ Objective
+## ▹ Flutter
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀 **Android/Flutter Mobile Developer**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Bloc/Cubit**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Modular**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Clean Architecture**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Test-driven Development**
 
-## ▹ Presentation
+## ▹ Android
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ....
 
