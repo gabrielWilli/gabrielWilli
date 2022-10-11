@@ -1,10 +1,6 @@
-
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/43832940/195118576-7f2efef3-b34d-424f-8187-714c0b7ae033.svg" />
 </div>
-
-
 
 <br />
 
@@ -21,7 +17,6 @@
 <div align="center">
   <p>  :earth_americas: I'm a software engineer at <a href="https://autodoc.com.br"> Autodoc</a> in São Paulo, Brazil </p>
 </div>
-
 
 <br />
 
