@@ -29,7 +29,7 @@
 <br />
 
 <div align="center" >
-  <h3> :mailbox_with_no_mail: Where to find me... </h3>
+  <h3> :mailbox_with_no_mail: Where to find me </h3>
 </div>
   
 <br />
