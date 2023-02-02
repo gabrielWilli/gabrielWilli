@@ -35,10 +35,6 @@
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-willian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
-  <a href="mailto:gabrielwillian841@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
-  <a href="https://medium.com/@gabrielwillian841" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/><a/>
-  <a href="https://dribbble.com/gabriel-willian" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/><a/>
-  <a href="https://www.figma.com/file/F1eCWwm60fgriQBOJEdfzB/Projetos?node-id=0%3A1" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><a/>
+  <a href="http://bit.ly/3JxF8NV" target="_blank"><img src="https://img.shields.io/badge/Acesse%20o%20meu-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/><a/>
 </div>
 
