@@ -2,7 +2,7 @@
 <br />
 
 <div align="left">
-  <a href="http://bit.ly/3JxF8NV" target="_blank"><img src="https://img.shields.io/badge/Acesse%20o%20meu-Linktree-000000?style=for-the-badge&logo=linktree&logoColor=39E09B"/> 
+  <a href="http://bit.ly/3JxF8NV" target="_blank"><img src="https://img.shields.io/badge/Acesse%20o%20meu-Linktree-292929?style=for-the-badge&logo=linktree&logoColor=39E09B"/> 
   </a>
 </div>
 
