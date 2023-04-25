@@ -1,24 +1,25 @@
-## **Hi there** 👋
-<br />
+  ### **Hi there** 👋
 
-<div align="left">
-  <a href="http://bit.ly/3JxF8NV" target="_blank"><img src="https://img.shields.io/badge/Acesse%20o%20meu-Linktree-292929?style=for-the-badge&logo=linktree&logoColor=39E09B"/> 
-  </a>
-</div>
+  <br />
+  
+  <div align="left">
+    <a href="http://bit.ly/3JxF8NV" target="_blank"><img src="https://img.shields.io/badge/Acesse%20o%20meu-Linktree-292929?style=for-the-badge&logo=linktree&logoColor=39E09B"/> 
+    </a>
+  </div>
 
-<br />
+  <br />
 
-I'm a software engineer at [Autodoc](https://autodoc.com.br/) in São Paulo, Brazil 🌆
+  I'm a software engineer at [Autodoc](https://autodoc.com.br/) in São Paulo, Brazil 🌆
 
-- 🌱 Creating with **Dart** & **Flutter**
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have a huge passion for going to the gym and I have a kitten called Kate
+  - 🌱 Creating with **Dart** & **Flutter**
+  - 😄 Pronouns: he/him/his
+  - ⚡ Fun fact: I have a huge passion for going to the gym and I have a kitten called Kate
 
-<br />
+  <br />
 
-<div align="left">
-  <a href="https://github.com/gabrielWilli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielWilli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielWilli&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+  <div align="left">
+    <a href="https://github.com/gabrielWilli">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielWilli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielWilli&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+  </div>
