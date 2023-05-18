@@ -12,7 +12,7 @@
   I'm a software engineer at [Autodoc](https://autodoc.com.br/) in São Paulo, Brazil 🌆
 
   - 🌱 Creating with **Dart** & **Flutter**
-  - 😄 Pronouns: he/him/his
+  - 😄 Pronouns: he/him
   - ⚡ Facts about me: I have a huge passion for going to the gym and I have a kitten called Kate
 
   <br />
