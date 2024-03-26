@@ -13,7 +13,7 @@
 
   - 🌱 Creating with **Dart** & **Flutter**
   - 😄 Pronouns: he/him
-  - ⚡ Facts about me: I have a huge passion for going to the gym and I have a kitten called Kate
+  - ⚡ Facts about me: I have a passion for the gym, my cat is called Kate and I love plants
 
   <br />
 
