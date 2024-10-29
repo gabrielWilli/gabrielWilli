@@ -9,11 +9,11 @@
 
   <br />
 
-  I'm a software engineer at [Autodoc](https://autodoc.com.br/) in São Paulo, Brazil 🌆
+  I'm a software engineer at [Pilar](https://www.soupilar.com.br/) in São Paulo, Brazil 🌆
 
   - 🌱 Creating with **Dart** & **Flutter**
   - 😄 Pronouns: he/him
-  - ⚡ Facts about me: I have a passion for the gym, my cat is called Kate and I love plants
+  - ⚡ Facts about me: I have a passion for the gym, my cats is called Kate and Mia and I love plants
 
   <br />
 
